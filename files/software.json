@@ -1,0 +1,19 @@
+{
+	"parallelGBC": {
+		"short": "parallelGBC",
+		"long": "parallel Groebner Basis computation",
+		"more": "https://github.com/svrnm/parallelGBC",
+		"releases": {
+			"4c4399a520": {
+				"short": "4c4399a520",
+				"long": "A release which changed a lot",
+				"more": "https://github.com/svrnm/parallelGBC"
+			},
+			"v0.3": null
+		}
+	},
+	"ApCoCoA": {
+
+	},
+	"Singular": null
+}

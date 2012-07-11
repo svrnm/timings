@@ -1,0 +1,8 @@
+{
+	"row_id": ["problem","system","software","software::release"],
+	"data_column": ["processors"],
+	"data": ["runtime", "reduction", "prepare", "update"],
+	"data_format": {"short": "{runtime}", "long": "Reduction: {reduction}{newline}Prepare: {prepare}{newline}Update: {update}"},
+	"description": "This table shows timings for different machines running cyclic-n problems using the parallelGBC software.",
+	"sort": ["problem", "system", "software::release"]
+}			

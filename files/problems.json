@@ -1,0 +1,22 @@
+{
+	"cyclic7" : {
+		"short": "Cyclic-7",
+		"long": "The solution has 209 elements."
+	},
+	"cyclic8": {
+		"short": "Cyclic-8",
+		"long": "The solution has 372 elements."
+	},
+	"cyclic9": {
+		"short": "Cyclic-9",
+		"long": "The solution has 1344 elements."
+	},
+	"katsura13": {
+		"short": "Katsura 13",
+		"long": "The solution has 2091 elements."
+	},
+	"katsura14": {
+		"short": "Katsura 14",
+		"long": "The solution has 4140 elements."
+	}
+}

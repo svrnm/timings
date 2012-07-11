@@ -1,0 +1,10 @@
+{
+	"en": {
+		"software::release": "release",	
+		"timings": "timings (seconds)"
+	},
+	"de": {
+		"system": "System",
+		"software": "Software"
+	}
+}

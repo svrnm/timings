@@ -1,0 +1,14 @@
+{
+	"syzygy": {
+		"short": "AMD Opteron @ 2.1Ghz",
+		"long": "4 x 12 cores and 64GB of RAM"
+	},
+	"mupfel": {
+		"short": "Intel Core i5 @ 2.5Ghz",
+		"long": "2 cores with hyperthreading and 2GB of RAM"
+	},
+	"poscomp": {
+		"short": "Intel Xeon @ 3.47GHz",
+		"long": "2 x 4 cores with hyperthreading and 2GB of RAM"
+	}
+}

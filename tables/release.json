@@ -1,0 +1,8 @@
+{
+	"row_id": ["problem","system"],
+	"data_column": ["software","software::release"],
+	"data": ["reduction", "runtime"],
+	"data_format": {"short": "{reduction}", "long": "Runtime: {runtime}"},
+	"description": "This table shows different timings for two versions of the parallelGBC software.",
+	"sort": ["problem", "system", "software::release"]
+}			
